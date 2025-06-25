@@ -90,6 +90,6 @@ public class Parking {
                     System.out.println("Invalid choice. Please enter a valid option.");
             }
         }
-        sc.close();
+        
     }
 }
