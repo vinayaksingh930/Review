@@ -1,0 +1,13 @@
+# Ignore class files
+*.class
+
+# Ignore build directories
+bin/
+out/
+
+# Ignore IDE specific files
+*.log
+*.DS_Store
+.vscode/
+.idea/
+
