@@ -3,8 +3,8 @@
 import java.util.*;
 
 class ArraySum {
-  static int M = 4;
-  static int N = 4;
+  static int M = 6;
+  static int N = 6;
   static int sum(int arr[][])
   {
     int i, j;
