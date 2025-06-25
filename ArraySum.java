@@ -1,4 +1,4 @@
-package ParkingLotSimulation;
+
 
 import java.util.*;
 
@@ -26,7 +26,7 @@ class ArraySum {
       for (j = 0; j < N; j++)
         arr[i][j] = x++;
 
-    System.out.println(sum(arr));
+    System.out.println("Sum of 2D Array elements is "+sum(arr));
   }
 }
 
